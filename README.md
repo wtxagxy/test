@@ -1,3 +1,2 @@
-
-# master reset
-test master2
+# dev reset
+test dev
